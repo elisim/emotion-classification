@@ -15,7 +15,7 @@ Therefore the dataset has a total of 8 types of emotion labels:
 * sadness
 * surprise 
 * neutral
-* non-neutral
+* non-neutral (more than two different emotions were put into by the labeler)
 
 Reference: [paperswithcode - emotionlines](https://paperswithcode.com/dataset/emotionlines)
 
